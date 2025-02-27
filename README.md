@@ -4,6 +4,7 @@ A **FiveM** script for **QB-Core & Qbox** that spawns lootable props in designat
 
 ---
 
+https://streamable.com/jz5of7
 ## 📌 Features
 ✅ **Loot Zones:** Different zones with configurable loot tiers (**low, medium, high**).  
 ✅ **Random Loot:** Players receive **one** random item from the tier-based loot table.  
